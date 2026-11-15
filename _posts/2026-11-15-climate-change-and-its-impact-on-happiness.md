@@ -6,4 +6,4 @@ image: img/203468682.jpg
 excerpt: relax
 author: Ruk
 ---
-This is a test
+This is a test for rukrakaganno
