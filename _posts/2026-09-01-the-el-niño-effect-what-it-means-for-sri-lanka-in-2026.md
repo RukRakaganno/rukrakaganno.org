@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The El Niño Effect: What It Means for Sri Lanka in 2026"
-date: 2026-09-01 09:49:00 +0530
+date: 2026-11-15 05:35:00 +0530
 categories: tree-talk
 image: /assets/img/blog/el-nino-sri-lanka-banner.png
 tags: El Niño climate
