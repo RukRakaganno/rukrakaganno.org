@@ -3,7 +3,7 @@ layout: post
 title: Ruk Rakaganno Honours Three Distinguished Environmental Champions with
   Honorary Life Memberships
 date: 2026-11-17 10:05:00 +0530
-image: img/203468682.jpg
+image: /assets/img/blog/professor-siril-wijesundera-professor-mayuri-wijesinghe-and-renowned-artist-channa-ekanayake.jpg
 tags: Conservation Restoration Sinharaja Honours Biodiversity
 excerpt: Ruk Rakaganno honours three environmental champions with Honorary Life
   Memberships at its 51st AGM
